@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.container {
+  font-family: 'Noto Serif';
+}
+
+#header {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-size: 40px !important;
+  font-weight: bold !important;
+  text-decoration: underline !important;
+}
+
+#description {
+  font-size: 20px !important;
+  font-style: italic !important;
+}
+
+.description {
+  padding-top: 1px;
+}
+
+#poemcont {
+  padding-bottom: 30px;
+}
