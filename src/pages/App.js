@@ -7,8 +7,12 @@ function App(props) {
   });
   return (
     <div className="container" id="poemcont">
-      {newText}
-      <h3>~ (fake) Shakespeare</h3>
+      <div className="card">
+          <div className="card-body">
+          {newText}
+          <h3>~ (fake) Shakespeare</h3>
+          </div>
+        </div>
     </div>
   );
 }
